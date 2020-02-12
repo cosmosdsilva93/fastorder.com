@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c4127528ca8e37bacaceaeb9db43d343",
+    "content-hash": "5d1cdaf5b666eb1bd578dd1e0463ea99",
     "packages": [
         {
             "name": "components/jquery",
@@ -281,16 +281,16 @@
         },
         {
             "name": "twitter/bootstrap",
-            "version": "v4.4.1",
+            "version": "v3.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twbs/bootstrap.git",
-                "reference": "dca1ab7d877bc4b664b43604657a2b5fbe2b4ecb"
+                "reference": "68b0d231a13201eb14acd3dc84e51543d16e5f7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twbs/bootstrap/zipball/dca1ab7d877bc4b664b43604657a2b5fbe2b4ecb",
-                "reference": "dca1ab7d877bc4b664b43604657a2b5fbe2b4ecb",
+                "url": "https://api.github.com/repos/twbs/bootstrap/zipball/68b0d231a13201eb14acd3dc84e51543d16e5f7e",
+                "reference": "68b0d231a13201eb14acd3dc84e51543d16e5f7e",
                 "shasum": ""
             },
             "replace": {
@@ -299,7 +299,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.3.x-dev"
+                    "dev-master": "3.4.x-dev"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -308,12 +308,12 @@
             ],
             "authors": [
                 {
-                    "name": "Mark Otto",
-                    "email": "markdotto@gmail.com"
-                },
-                {
                     "name": "Jacob Thornton",
                     "email": "jacobthornton@gmail.com"
+                },
+                {
+                    "name": "Mark Otto",
+                    "email": "markdotto@gmail.com"
                 }
             ],
             "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
@@ -323,12 +323,12 @@
                 "css",
                 "framework",
                 "front-end",
+                "less",
                 "mobile-first",
                 "responsive",
-                "sass",
                 "web"
             ],
-            "time": "2019-11-28T12:59:49+00:00"
+            "time": "2019-02-13T15:55:38+00:00"
         }
     ],
     "packages-dev": [],
