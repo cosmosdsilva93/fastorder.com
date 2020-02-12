@@ -1,0 +1,9 @@
+{
+    
+    "require": {
+        "nategood/httpful": "^0.3.2",
+        "twitter/bootstrap": "^4.4",
+        "twig/twig": "3.0",
+        "components/jquery": "^3.4"
+    }
+}
